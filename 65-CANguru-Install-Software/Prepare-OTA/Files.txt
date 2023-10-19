@@ -1,1 +1,0 @@
-Hier stehen die Dateien, um einem Decoder eine IP-Adresse zuzuweisen. Die Decoder-Software dann über den Browser geladen.

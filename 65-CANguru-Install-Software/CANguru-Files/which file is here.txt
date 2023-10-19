@@ -1,2 +1,0 @@
-	SenseControl ESP32 Ver 1.3
-x	03-Gleisbesetztmelder-OTA
