@@ -1,7 +1,0 @@
-Stepper-Ausschnitt
-In Sprint-Layout
-alle Umrisse gemeinsam: In Fräsdatei / HPGL: K2 Horiz. spiegeln; Fräsen auf K2
-dann HPGL2BCODE: 1.4 mm 4 fach
-Bohrungen: Unten(x-gespiegelt, HPGL komp.)
-dann FlatCAM
-
